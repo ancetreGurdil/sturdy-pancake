@@ -1,0 +1,10 @@
+.container-fluid {
+    width: 20%;
+    margin: 0 auto;
+}
+.col{
+    margin: 5%;
+}
+.btn-danger:hover{
+    background-color:rgb(200, 0, 10);
+}
